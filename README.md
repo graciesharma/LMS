@@ -1,7 +1,3 @@
-This is a simple Online-Library-Management-System for School and colleges..
-Online library Management System divided in two modules–
-Student
-Admin
 
 
 Online library Management System divided in two modules–
@@ -10,7 +6,8 @@ Student Admin
 
 Admin Features
 
-Admin Dashboard
+
+Admin 
 
 Admin can add/update/ delete category
 
@@ -24,7 +21,6 @@ Admin can search student by using their student ID
 
 Admin can also view student details
 
-Admin can change own password
 
 Students-
 
@@ -36,6 +32,4 @@ Student can update own profile.
 
 Student can view issued book and book return date-time.
 
-Student can also change own password.
 
-Student can also recover own password.
