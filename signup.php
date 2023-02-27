@@ -110,7 +110,7 @@ error:function (){}
 <div class="col-md-9 col-md-offset-1">
                <div class="panel panel-danger">
                         <div class="panel-heading">
-                           SINGUP FORM
+                           SIGNUP FORM
                         </div>
                         <div class="panel-body">
                             <form name="signup" method="post" onSubmit="return valid();">
