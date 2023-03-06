@@ -4,15 +4,14 @@ How to run this Project
 
 
 Database Configuration:
-Open phpmyadmin
-Create Database library
-Import database library.sql (available inside zip package)
+1.Open phpmyadmin
+2.Create Database library
+3.Import database library.sql (available inside zip package)
 
 For User
 Open Your browser put inside browser “http://localhost/library/library”
 
 Login Details for user :
-
 Username : test@gmail.com
 Password : Test@123
 
@@ -25,11 +24,9 @@ Username : admin
 Password : admin@123
 
 
-
 Online library Management System divided in two modules–
 Student
 Admin
-
 
 
 Admin Features:
