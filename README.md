@@ -1,7 +1,9 @@
 How to run this Project
 1. Download and Unzip file on your local system copy library.
-2. Put library folder inside root directory
-Database Configuration
+2. Put library folder inside root directory (inside xampp--htdocs folder)
+
+
+Database Configuration:
 Open phpmyadmin
 Create Database library
 Import database library.sql (available inside zip package)
